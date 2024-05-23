@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="42" viewBox="0 0 48 42">
+    <defs>
+        <linearGradient id="rkuzpy8ora" x1="1.004" x2="-.029" y1=".042" y2="1.037" gradientUnits="objectBoundingBox">
+            <stop offset=".004" stop-color="#00c2f3"/>
+            <stop offset=".999" stop-color="#0071bc"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path fill="url(#rkuzpy8ora)" d="M421.2 343.632L415.266 338H382a5.992 5.992 0 0 1-6-5.984v-23.942a5.992 5.992 0 0 1 6-5.984h36a5.992 5.992 0 0 1 6 5.984v34.362a1.655 1.655 0 0 1-2.8 1.196z" transform="translate(-376 -302.09)"/>
+        <path fill="#fff" d="M402.089 306.657a.449.449 0 0 0-.814-.328q-2.748 4.066-5.489 8.136-1.692 2.513-3.381 5.026c-.663.987-2.7 3.343-.182 3.343l7.505-.006-1.428 10.712a.448.448 0 0 0 .818.306l9.679-14.688a1.186 1.186 0 0 0-.968-1.839l-7.555-.139z" transform="translate(-376 -302.09)"/>
+        <path fill="#0071bc" d="M391.835 322.825l7.538 2.411.355-2.407z" transform="translate(-376 -302.09) translate(0 -.058)"/>
+    </g>
+</svg>

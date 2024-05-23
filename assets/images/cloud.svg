@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="56" viewBox="0 0 57 56">
+    <defs>
+        <linearGradient id="linear-gradient" x2="1" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset=".004" stop-color="#00c2f3"/>
+            <stop offset=".999" stop-color="#0071bc"/>
+        </linearGradient>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}
+        </style>
+    </defs>
+    <g id="Group_132" transform="translate(-366 -344)">
+        <path id="Path_244" d="M423 365.33a12.342 12.342 0 0 1-12.35 12.34h-29.18a12.345 12.345 0 1 1 0-24.69 12.972 12.972 0 0 1 2.17.2 14.584 14.584 0 0 1 27.01-.2A12.351 12.351 0 0 1 423 365.33z" class="cls-1"/>
+        <circle id="Ellipse_124" cx="4.5" cy="4.5" r="4.5" fill="#28a7df" transform="translate(366 391)"/>
+        <circle id="Ellipse_125" cx="9.5" cy="9.5" r="9.5" class="cls-1" transform="translate(376 371)"/>
+        <path id="Path_245" fill="#fad12a" d="M394.57 377.67h-13.1a12.274 12.274 0 0 1-4.7-.93 9.505 9.505 0 0 1 17.8.93z"/>
+    </g>
+</svg>

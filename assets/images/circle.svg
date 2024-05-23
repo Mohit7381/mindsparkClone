@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".794" x2=".18" y1=".122" y2=".912" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff640b"/>
+            <stop offset="1" stop-color="#fad12a"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:#fad12a}
+        </style>
+    </defs>
+    <g id="Group_137" transform="translate(-376 -360)">
+        <path id="Path_251" fill="url(#linear-gradient)" d="M423.66 380A23.988 23.988 0 0 0 404 360.34a23.7 23.7 0 0 0-8 0A23.988 23.988 0 0 0 376.34 380a23.7 23.7 0 0 0 0 8A23.988 23.988 0 0 0 396 407.66a23.7 23.7 0 0 0 8 0A23.988 23.988 0 0 0 423.66 388a23.7 23.7 0 0 0 0-8zM404 395.31a11.939 11.939 0 0 1-8 0 11.984 11.984 0 0 1-7.31-7.31 11.939 11.939 0 0 1 0-8 11.984 11.984 0 0 1 7.31-7.31 11.939 11.939 0 0 1 8 0 11.984 11.984 0 0 1 7.31 7.31 11.939 11.939 0 0 1 0 8 11.984 11.984 0 0 1-7.31 7.31z"/>
+        <path id="Path_252" d="M404 360.34v12.35a11.939 11.939 0 0 0-8 0v-12.35a23.7 23.7 0 0 1 8 0z" class="cls-2"/>
+        <path id="Path_253" d="M404 395.31v12.35a23.7 23.7 0 0 1-8 0v-12.35a11.939 11.939 0 0 0 8 0z" class="cls-2"/>
+        <path id="Path_254" d="M388 384a11.8 11.8 0 0 0 .69 4h-12.35a23.7 23.7 0 0 1 0-8h12.35a11.8 11.8 0 0 0-.69 4z" class="cls-2"/>
+        <path id="Path_255" d="M424 384a22.973 22.973 0 0 1-.34 4h-12.35a11.939 11.939 0 0 0 0-8h12.35a22.973 22.973 0 0 1 .34 4z" class="cls-2"/>
+    </g>
+</svg>
